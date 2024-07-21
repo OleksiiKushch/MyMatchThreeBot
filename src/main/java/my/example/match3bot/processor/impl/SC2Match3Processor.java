@@ -12,7 +12,7 @@ import java.util.Objects;
 
 /**
  * Match3 processor for StarCraft 2 Arcade game StarJeweled.
- * Configured for Display Intel(R) HD Graphics 630 (Mode: Windowed (Not Fullscreen); default placement top left corner).
+ * Configured for Display Intel(R) HD Graphics 630 (2560 X 1440) (Mode: Windowed (Not Fullscreen); default placement top left corner).
  * Note: Recognition of elements by color, as the color difference is clearly pronounced.
  */
 public class SC2Match3Processor implements Match3Processor {
